@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Aula_22_Entrada_de_dados/1.0.0": {
+        "runtime": {
+          "Aula_22_Entrada_de_dados.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aula_22_Entrada_de_dados/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
