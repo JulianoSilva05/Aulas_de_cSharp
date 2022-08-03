@@ -1,0 +1,72 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net5.0": []
+  },
+  "packageFolders": {
+    "C:\\Users\\JF\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\JF\\OneDrive - llfl\\OneDrive - jfs\\Curso C# - Udemy\\ws-vc2022\\Course\\Aulas_de_cSharp\\Aula_22_Entrada_de_dados\\Aula_22_Entrada_de_dados\\Aula_22_Entrada_de_dados.csproj",
+      "projectName": "Aula_22_Entrada_de_dados",
+      "projectPath": "C:\\Users\\JF\\OneDrive - llfl\\OneDrive - jfs\\Curso C# - Udemy\\ws-vc2022\\Course\\Aulas_de_cSharp\\Aula_22_Entrada_de_dados\\Aula_22_Entrada_de_dados\\Aula_22_Entrada_de_dados.csproj",
+      "packagesPath": "C:\\Users\\JF\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\JF\\OneDrive - llfl\\OneDrive - jfs\\Curso C# - Udemy\\ws-vc2022\\Course\\Aulas_de_cSharp\\Aula_22_Entrada_de_dados\\Aula_22_Entrada_de_dados\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\JF\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
