@@ -1,0 +1,16 @@
+C:\Users\JF\OneDrive - llfl\OneDrive - jfs\Curso C# - Udemy\ws-vc2022\Course\Operadores_Aritimeticos_21\Operadores_Aritimeticos_21\bin\Debug\net5.0\Operadores_Aritimeticos_21.exe
+C:\Users\JF\OneDrive - llfl\OneDrive - jfs\Curso C# - Udemy\ws-vc2022\Course\Operadores_Aritimeticos_21\Operadores_Aritimeticos_21\bin\Debug\net5.0\Operadores_Aritimeticos_21.deps.json
+C:\Users\JF\OneDrive - llfl\OneDrive - jfs\Curso C# - Udemy\ws-vc2022\Course\Operadores_Aritimeticos_21\Operadores_Aritimeticos_21\bin\Debug\net5.0\Operadores_Aritimeticos_21.runtimeconfig.json
+C:\Users\JF\OneDrive - llfl\OneDrive - jfs\Curso C# - Udemy\ws-vc2022\Course\Operadores_Aritimeticos_21\Operadores_Aritimeticos_21\bin\Debug\net5.0\Operadores_Aritimeticos_21.runtimeconfig.dev.json
+C:\Users\JF\OneDrive - llfl\OneDrive - jfs\Curso C# - Udemy\ws-vc2022\Course\Operadores_Aritimeticos_21\Operadores_Aritimeticos_21\bin\Debug\net5.0\Operadores_Aritimeticos_21.dll
+C:\Users\JF\OneDrive - llfl\OneDrive - jfs\Curso C# - Udemy\ws-vc2022\Course\Operadores_Aritimeticos_21\Operadores_Aritimeticos_21\bin\Debug\net5.0\Operadores_Aritimeticos_21.pdb
+C:\Users\JF\OneDrive - llfl\OneDrive - jfs\Curso C# - Udemy\ws-vc2022\Course\Operadores_Aritimeticos_21\Operadores_Aritimeticos_21\obj\Debug\net5.0\Operadores_Aritimeticos_21.csproj.AssemblyReference.cache
+C:\Users\JF\OneDrive - llfl\OneDrive - jfs\Curso C# - Udemy\ws-vc2022\Course\Operadores_Aritimeticos_21\Operadores_Aritimeticos_21\obj\Debug\net5.0\Operadores_Aritimeticos_21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JF\OneDrive - llfl\OneDrive - jfs\Curso C# - Udemy\ws-vc2022\Course\Operadores_Aritimeticos_21\Operadores_Aritimeticos_21\obj\Debug\net5.0\Operadores_Aritimeticos_21.AssemblyInfoInputs.cache
+C:\Users\JF\OneDrive - llfl\OneDrive - jfs\Curso C# - Udemy\ws-vc2022\Course\Operadores_Aritimeticos_21\Operadores_Aritimeticos_21\obj\Debug\net5.0\Operadores_Aritimeticos_21.AssemblyInfo.cs
+C:\Users\JF\OneDrive - llfl\OneDrive - jfs\Curso C# - Udemy\ws-vc2022\Course\Operadores_Aritimeticos_21\Operadores_Aritimeticos_21\obj\Debug\net5.0\Operadores_Aritimeticos_21.csproj.CoreCompileInputs.cache
+C:\Users\JF\OneDrive - llfl\OneDrive - jfs\Curso C# - Udemy\ws-vc2022\Course\Operadores_Aritimeticos_21\Operadores_Aritimeticos_21\obj\Debug\net5.0\Operadores_Aritimeticos_21.dll
+C:\Users\JF\OneDrive - llfl\OneDrive - jfs\Curso C# - Udemy\ws-vc2022\Course\Operadores_Aritimeticos_21\Operadores_Aritimeticos_21\obj\Debug\net5.0\refint\Operadores_Aritimeticos_21.dll
+C:\Users\JF\OneDrive - llfl\OneDrive - jfs\Curso C# - Udemy\ws-vc2022\Course\Operadores_Aritimeticos_21\Operadores_Aritimeticos_21\obj\Debug\net5.0\Operadores_Aritimeticos_21.pdb
+C:\Users\JF\OneDrive - llfl\OneDrive - jfs\Curso C# - Udemy\ws-vc2022\Course\Operadores_Aritimeticos_21\Operadores_Aritimeticos_21\obj\Debug\net5.0\Operadores_Aritimeticos_21.genruntimeconfig.cache
+C:\Users\JF\OneDrive - llfl\OneDrive - jfs\Curso C# - Udemy\ws-vc2022\Course\Operadores_Aritimeticos_21\Operadores_Aritimeticos_21\obj\Debug\net5.0\ref\Operadores_Aritimeticos_21.dll
