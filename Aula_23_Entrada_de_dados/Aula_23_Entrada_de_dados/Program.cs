@@ -6,7 +6,7 @@ namespace Aula_23_Entrada_de_dados
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World");
         }
     }
 }
