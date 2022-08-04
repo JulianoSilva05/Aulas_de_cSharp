@@ -44,18 +44,16 @@ namespace Aula_23_Entrada_de_dados
                 int quartos = int.Parse(Console.ReadLine());
 
                 Console.WriteLine("Entre com o preço do produto: ");
-                double preco = double.Parse(Console.ReadLine(),(CultureInfo.InvariantCulture);
+                double preco = double.Parse(Console.ReadLine(),(CultureInfo.InvariantCulture));
 
                 Console.WriteLine("Entre com sua último nome, idade e altura (mesma linha)");
-
-                //video 23 - minuto 13:09
-
-
-
-
+                string[] vet = Console.ReadLine().Split(' ');
+                string sobre_nome = vet[0];
+                int idade = int.Parse(vet[1]);
+                double altura = double.Parse(vet[2], CultureInfo.InvariantCulture);//Parse - usado para converter para string
+                Console.WriteLine("{0} {1} {2}",sobre_nome, idade, altura.ToString("F2", CultureInfo.InvariantCulture));
 
             }
-
 
         }
         
