@@ -1,0 +1,16 @@
+C:\Users\JF\OneDrive - llfl\OneDrive - jfs\Curso C# - Udemy\ws-vc2022\Course\Aulas_de_cSharp\Aula_23_Entrada_de_dados\Aula_23_Entrada_de_dados\bin\Debug\net5.0\Aula_23_Entrada_de_dados.exe
+C:\Users\JF\OneDrive - llfl\OneDrive - jfs\Curso C# - Udemy\ws-vc2022\Course\Aulas_de_cSharp\Aula_23_Entrada_de_dados\Aula_23_Entrada_de_dados\bin\Debug\net5.0\Aula_23_Entrada_de_dados.deps.json
+C:\Users\JF\OneDrive - llfl\OneDrive - jfs\Curso C# - Udemy\ws-vc2022\Course\Aulas_de_cSharp\Aula_23_Entrada_de_dados\Aula_23_Entrada_de_dados\bin\Debug\net5.0\Aula_23_Entrada_de_dados.runtimeconfig.json
+C:\Users\JF\OneDrive - llfl\OneDrive - jfs\Curso C# - Udemy\ws-vc2022\Course\Aulas_de_cSharp\Aula_23_Entrada_de_dados\Aula_23_Entrada_de_dados\bin\Debug\net5.0\Aula_23_Entrada_de_dados.runtimeconfig.dev.json
+C:\Users\JF\OneDrive - llfl\OneDrive - jfs\Curso C# - Udemy\ws-vc2022\Course\Aulas_de_cSharp\Aula_23_Entrada_de_dados\Aula_23_Entrada_de_dados\bin\Debug\net5.0\Aula_23_Entrada_de_dados.dll
+C:\Users\JF\OneDrive - llfl\OneDrive - jfs\Curso C# - Udemy\ws-vc2022\Course\Aulas_de_cSharp\Aula_23_Entrada_de_dados\Aula_23_Entrada_de_dados\bin\Debug\net5.0\Aula_23_Entrada_de_dados.pdb
+C:\Users\JF\OneDrive - llfl\OneDrive - jfs\Curso C# - Udemy\ws-vc2022\Course\Aulas_de_cSharp\Aula_23_Entrada_de_dados\Aula_23_Entrada_de_dados\obj\Debug\net5.0\Aula_23_Entrada_de_dados.csproj.AssemblyReference.cache
+C:\Users\JF\OneDrive - llfl\OneDrive - jfs\Curso C# - Udemy\ws-vc2022\Course\Aulas_de_cSharp\Aula_23_Entrada_de_dados\Aula_23_Entrada_de_dados\obj\Debug\net5.0\Aula_23_Entrada_de_dados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JF\OneDrive - llfl\OneDrive - jfs\Curso C# - Udemy\ws-vc2022\Course\Aulas_de_cSharp\Aula_23_Entrada_de_dados\Aula_23_Entrada_de_dados\obj\Debug\net5.0\Aula_23_Entrada_de_dados.AssemblyInfoInputs.cache
+C:\Users\JF\OneDrive - llfl\OneDrive - jfs\Curso C# - Udemy\ws-vc2022\Course\Aulas_de_cSharp\Aula_23_Entrada_de_dados\Aula_23_Entrada_de_dados\obj\Debug\net5.0\Aula_23_Entrada_de_dados.AssemblyInfo.cs
+C:\Users\JF\OneDrive - llfl\OneDrive - jfs\Curso C# - Udemy\ws-vc2022\Course\Aulas_de_cSharp\Aula_23_Entrada_de_dados\Aula_23_Entrada_de_dados\obj\Debug\net5.0\Aula_23_Entrada_de_dados.csproj.CoreCompileInputs.cache
+C:\Users\JF\OneDrive - llfl\OneDrive - jfs\Curso C# - Udemy\ws-vc2022\Course\Aulas_de_cSharp\Aula_23_Entrada_de_dados\Aula_23_Entrada_de_dados\obj\Debug\net5.0\Aula_23_Entrada_de_dados.dll
+C:\Users\JF\OneDrive - llfl\OneDrive - jfs\Curso C# - Udemy\ws-vc2022\Course\Aulas_de_cSharp\Aula_23_Entrada_de_dados\Aula_23_Entrada_de_dados\obj\Debug\net5.0\refint\Aula_23_Entrada_de_dados.dll
+C:\Users\JF\OneDrive - llfl\OneDrive - jfs\Curso C# - Udemy\ws-vc2022\Course\Aulas_de_cSharp\Aula_23_Entrada_de_dados\Aula_23_Entrada_de_dados\obj\Debug\net5.0\Aula_23_Entrada_de_dados.pdb
+C:\Users\JF\OneDrive - llfl\OneDrive - jfs\Curso C# - Udemy\ws-vc2022\Course\Aulas_de_cSharp\Aula_23_Entrada_de_dados\Aula_23_Entrada_de_dados\obj\Debug\net5.0\Aula_23_Entrada_de_dados.genruntimeconfig.cache
+C:\Users\JF\OneDrive - llfl\OneDrive - jfs\Curso C# - Udemy\ws-vc2022\Course\Aulas_de_cSharp\Aula_23_Entrada_de_dados\Aula_23_Entrada_de_dados\obj\Debug\net5.0\ref\Aula_23_Entrada_de_dados.dll
