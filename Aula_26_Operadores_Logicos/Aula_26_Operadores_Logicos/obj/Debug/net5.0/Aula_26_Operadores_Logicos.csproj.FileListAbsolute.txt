@@ -1,0 +1,16 @@
+C:\Users\JF\OneDrive - llfl\OneDrive - jfs\Curso C# - Udemy\ws-vc2022\Course\Aulas_de_cSharp\Aula_26_Operadores_Logicos\Aula_26_Operadores_Logicos\bin\Debug\net5.0\Aula_26_Operadores_Logicos.exe
+C:\Users\JF\OneDrive - llfl\OneDrive - jfs\Curso C# - Udemy\ws-vc2022\Course\Aulas_de_cSharp\Aula_26_Operadores_Logicos\Aula_26_Operadores_Logicos\bin\Debug\net5.0\Aula_26_Operadores_Logicos.deps.json
+C:\Users\JF\OneDrive - llfl\OneDrive - jfs\Curso C# - Udemy\ws-vc2022\Course\Aulas_de_cSharp\Aula_26_Operadores_Logicos\Aula_26_Operadores_Logicos\bin\Debug\net5.0\Aula_26_Operadores_Logicos.runtimeconfig.json
+C:\Users\JF\OneDrive - llfl\OneDrive - jfs\Curso C# - Udemy\ws-vc2022\Course\Aulas_de_cSharp\Aula_26_Operadores_Logicos\Aula_26_Operadores_Logicos\bin\Debug\net5.0\Aula_26_Operadores_Logicos.runtimeconfig.dev.json
+C:\Users\JF\OneDrive - llfl\OneDrive - jfs\Curso C# - Udemy\ws-vc2022\Course\Aulas_de_cSharp\Aula_26_Operadores_Logicos\Aula_26_Operadores_Logicos\bin\Debug\net5.0\Aula_26_Operadores_Logicos.dll
+C:\Users\JF\OneDrive - llfl\OneDrive - jfs\Curso C# - Udemy\ws-vc2022\Course\Aulas_de_cSharp\Aula_26_Operadores_Logicos\Aula_26_Operadores_Logicos\bin\Debug\net5.0\Aula_26_Operadores_Logicos.pdb
+C:\Users\JF\OneDrive - llfl\OneDrive - jfs\Curso C# - Udemy\ws-vc2022\Course\Aulas_de_cSharp\Aula_26_Operadores_Logicos\Aula_26_Operadores_Logicos\obj\Debug\net5.0\Aula_26_Operadores_Logicos.csproj.AssemblyReference.cache
+C:\Users\JF\OneDrive - llfl\OneDrive - jfs\Curso C# - Udemy\ws-vc2022\Course\Aulas_de_cSharp\Aula_26_Operadores_Logicos\Aula_26_Operadores_Logicos\obj\Debug\net5.0\Aula_26_Operadores_Logicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JF\OneDrive - llfl\OneDrive - jfs\Curso C# - Udemy\ws-vc2022\Course\Aulas_de_cSharp\Aula_26_Operadores_Logicos\Aula_26_Operadores_Logicos\obj\Debug\net5.0\Aula_26_Operadores_Logicos.AssemblyInfoInputs.cache
+C:\Users\JF\OneDrive - llfl\OneDrive - jfs\Curso C# - Udemy\ws-vc2022\Course\Aulas_de_cSharp\Aula_26_Operadores_Logicos\Aula_26_Operadores_Logicos\obj\Debug\net5.0\Aula_26_Operadores_Logicos.AssemblyInfo.cs
+C:\Users\JF\OneDrive - llfl\OneDrive - jfs\Curso C# - Udemy\ws-vc2022\Course\Aulas_de_cSharp\Aula_26_Operadores_Logicos\Aula_26_Operadores_Logicos\obj\Debug\net5.0\Aula_26_Operadores_Logicos.csproj.CoreCompileInputs.cache
+C:\Users\JF\OneDrive - llfl\OneDrive - jfs\Curso C# - Udemy\ws-vc2022\Course\Aulas_de_cSharp\Aula_26_Operadores_Logicos\Aula_26_Operadores_Logicos\obj\Debug\net5.0\Aula_26_Operadores_Logicos.dll
+C:\Users\JF\OneDrive - llfl\OneDrive - jfs\Curso C# - Udemy\ws-vc2022\Course\Aulas_de_cSharp\Aula_26_Operadores_Logicos\Aula_26_Operadores_Logicos\obj\Debug\net5.0\refint\Aula_26_Operadores_Logicos.dll
+C:\Users\JF\OneDrive - llfl\OneDrive - jfs\Curso C# - Udemy\ws-vc2022\Course\Aulas_de_cSharp\Aula_26_Operadores_Logicos\Aula_26_Operadores_Logicos\obj\Debug\net5.0\Aula_26_Operadores_Logicos.pdb
+C:\Users\JF\OneDrive - llfl\OneDrive - jfs\Curso C# - Udemy\ws-vc2022\Course\Aulas_de_cSharp\Aula_26_Operadores_Logicos\Aula_26_Operadores_Logicos\obj\Debug\net5.0\Aula_26_Operadores_Logicos.genruntimeconfig.cache
+C:\Users\JF\OneDrive - llfl\OneDrive - jfs\Curso C# - Udemy\ws-vc2022\Course\Aulas_de_cSharp\Aula_26_Operadores_Logicos\Aula_26_Operadores_Logicos\obj\Debug\net5.0\ref\Aula_26_Operadores_Logicos.dll

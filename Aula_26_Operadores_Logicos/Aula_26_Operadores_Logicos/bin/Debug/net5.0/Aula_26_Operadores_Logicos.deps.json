@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Aula_26_Operadores_Logicos/1.0.0": {
+        "runtime": {
+          "Aula_26_Operadores_Logicos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aula_26_Operadores_Logicos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
