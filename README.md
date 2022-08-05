@@ -1,2 +1,2 @@
 # Aulas_de_cSharp
-Aulas teste
+Preparação de aulas para turma de Desenvolvimento de Sistemas.
