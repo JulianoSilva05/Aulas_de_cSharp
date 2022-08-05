@@ -143,7 +143,6 @@ namespace Exercicio_propostos_1
                 Console.WriteLine("Quadrado = {0}",quadrado.ToString("F3", CultureInfo.InvariantCulture));
                 Console.WriteLine("Retangulo = "+retangulo.ToString("F3", CultureInfo.InvariantCulture));
 
-
             }
         }
     }
