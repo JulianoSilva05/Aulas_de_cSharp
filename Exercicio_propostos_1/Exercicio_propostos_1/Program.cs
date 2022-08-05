@@ -86,32 +86,65 @@ namespace Exercicio_propostos_1
 
             //Exercicio 05
             {
-                Console.WriteLine("Fazer um programa para ler o código de uma peça 1, o " +
-                    "número de peças 1, o valor unitário de cada peça 1, o" +
-                    "código de uma peça 2, o número de peças 2 e o valor unitário " +
-                    "de cada peça 2.Calcule e mostre o valor a ser pago.");
+                /*
+                    Console.WriteLine("Fazer um programa para ler o código de uma peça 1, o " +
+                        "número de peças 1, o valor unitário de cada peça 1, o" +
+                        "código de uma peça 2, o número de peças 2 e o valor unitário " +
+                        "de cada peça 2.Calcule e mostre o valor a ser pago.");
 
-                Console.WriteLine("Digite o Cod da peça 1, a quantidade e o valor!");
-                string[] vet1 = Console.ReadLine().Split(" ");
-                int codigo = int.Parse(vet1[0]);
-                int numeroPecas = int.Parse(vet1[1]);
-                double valorPeca = double.Parse(vet1[2], CultureInfo.InvariantCulture);
-                double valorTotal = valorPeca * numeroPecas;
+                    Console.WriteLine("Digite o Cod da peça 1, a quantidade e o valor!");
+                    string[] vet1 = Console.ReadLine().Split(" ");
+                    int codigo = int.Parse(vet1[0]);
+                    int numeroPecas = int.Parse(vet1[1]);
+                    double valorPeca = double.Parse(vet1[2], CultureInfo.InvariantCulture);
+                    double valorTotal = valorPeca * numeroPecas;
 
-                Console.WriteLine("Digite o Cod da peça 2, a quantidade e o valor!");
-                string[] vet2 = Console.ReadLine().Split(" ");
-                int codigo2 = int.Parse(vet2[0]);
-                int numeroPecas2 = int.Parse(vet2[1]);
-                double valorPeca2 = double.Parse(vet2[2], CultureInfo.InvariantCulture);
+                    Console.WriteLine("Digite o Cod da peça 2, a quantidade e o valor!");
+                    string[] vet2 = Console.ReadLine().Split(" ");
+                    int codigo2 = int.Parse(vet2[0]);
+                    int numeroPecas2 = int.Parse(vet2[1]);
+                    double valorPeca2 = double.Parse(vet2[2], CultureInfo.InvariantCulture);
 
-                double valorTotal2 = valorPeca2 * numeroPecas2;
+                    double valorTotal2 = valorPeca2 * numeroPecas2;
 
-                double totalizador = valorTotal + valorTotal2;
+                    double totalizador = valorTotal + valorTotal2;
 
-                Console.WriteLine("VALOR A PAGAR: R$ " + totalizador.ToString("F2", CultureInfo.InvariantCulture));
-                
+                    Console.WriteLine("VALOR A PAGAR: R$ " + totalizador.ToString("F2", CultureInfo.InvariantCulture));
+                */
             }
 
+            //Exercicio 06
+            {
+                Console.WriteLine("Fazer um programa que leia três valores com ponto flutuante de dupla precisão: A, B e C. " +
+                    "Em seguida, calcule e mostre: \n" +
+                    "a) a área do triângulo retângulo que tem A por base e C por altura.\n" +
+                    "b) a área do círculo de raio C. (pi = 3.14159)\n" +
+                    "c) a área do trapézio que tem A e B por bases e C por altura.\n" +
+                    "d) a área do quadrado que tem lado B.\n" +
+                    "e) a área do retângulo que tem lados A e B\n");
+
+                double a, b, c, triangulo, circulo, trapezio, quadrado, retangulo, pi=3.14159;
+
+                Console.WriteLine("Digite os valores do lado 1, lado 2 e lado 3");
+                string[] vet = Console.ReadLine().Split(' ');
+                a = double.Parse(vet[0], CultureInfo.InvariantCulture);
+                b = double.Parse(vet[1], CultureInfo.InvariantCulture);
+                c = double.Parse(vet[2], CultureInfo.InvariantCulture);
+
+                triangulo = a * c / 2.0;
+                circulo = pi * c * c;
+                trapezio = (a + b) / 2.0;
+                quadrado = b * b;
+                retangulo = a * b;
+
+                Console.WriteLine("Triangulo = {0}",triangulo.ToString("F3", CultureInfo.InvariantCulture));
+                Console.WriteLine("Circulo = {0}", circulo.ToString("F3", CultureInfo.InvariantCulture));
+                Console.WriteLine("Trapezio = "+trapezio.ToString("F3", CultureInfo.InvariantCulture));
+                Console.WriteLine("Quadrado = {0}",quadrado.ToString("F3", CultureInfo.InvariantCulture));
+                Console.WriteLine("Retangulo = "+retangulo.ToString("F3", CultureInfo.InvariantCulture));
+
+
+            }
         }
     }
 }
