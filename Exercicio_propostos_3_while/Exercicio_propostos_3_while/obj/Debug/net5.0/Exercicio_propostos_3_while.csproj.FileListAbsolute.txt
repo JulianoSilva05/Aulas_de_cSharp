@@ -1,0 +1,16 @@
+C:\Users\JF\OneDrive - llfl\OneDrive - jfs\Curso C# - Udemy\ws-vc2022\Course\Aulas_de_cSharp\Exercicio_propostos_3_while\Exercicio_propostos_3_while\bin\Debug\net5.0\Exercicio_propostos_3_while.exe
+C:\Users\JF\OneDrive - llfl\OneDrive - jfs\Curso C# - Udemy\ws-vc2022\Course\Aulas_de_cSharp\Exercicio_propostos_3_while\Exercicio_propostos_3_while\bin\Debug\net5.0\Exercicio_propostos_3_while.deps.json
+C:\Users\JF\OneDrive - llfl\OneDrive - jfs\Curso C# - Udemy\ws-vc2022\Course\Aulas_de_cSharp\Exercicio_propostos_3_while\Exercicio_propostos_3_while\bin\Debug\net5.0\Exercicio_propostos_3_while.runtimeconfig.json
+C:\Users\JF\OneDrive - llfl\OneDrive - jfs\Curso C# - Udemy\ws-vc2022\Course\Aulas_de_cSharp\Exercicio_propostos_3_while\Exercicio_propostos_3_while\bin\Debug\net5.0\Exercicio_propostos_3_while.runtimeconfig.dev.json
+C:\Users\JF\OneDrive - llfl\OneDrive - jfs\Curso C# - Udemy\ws-vc2022\Course\Aulas_de_cSharp\Exercicio_propostos_3_while\Exercicio_propostos_3_while\bin\Debug\net5.0\Exercicio_propostos_3_while.dll
+C:\Users\JF\OneDrive - llfl\OneDrive - jfs\Curso C# - Udemy\ws-vc2022\Course\Aulas_de_cSharp\Exercicio_propostos_3_while\Exercicio_propostos_3_while\bin\Debug\net5.0\Exercicio_propostos_3_while.pdb
+C:\Users\JF\OneDrive - llfl\OneDrive - jfs\Curso C# - Udemy\ws-vc2022\Course\Aulas_de_cSharp\Exercicio_propostos_3_while\Exercicio_propostos_3_while\obj\Debug\net5.0\Exercicio_propostos_3_while.csproj.AssemblyReference.cache
+C:\Users\JF\OneDrive - llfl\OneDrive - jfs\Curso C# - Udemy\ws-vc2022\Course\Aulas_de_cSharp\Exercicio_propostos_3_while\Exercicio_propostos_3_while\obj\Debug\net5.0\Exercicio_propostos_3_while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JF\OneDrive - llfl\OneDrive - jfs\Curso C# - Udemy\ws-vc2022\Course\Aulas_de_cSharp\Exercicio_propostos_3_while\Exercicio_propostos_3_while\obj\Debug\net5.0\Exercicio_propostos_3_while.AssemblyInfoInputs.cache
+C:\Users\JF\OneDrive - llfl\OneDrive - jfs\Curso C# - Udemy\ws-vc2022\Course\Aulas_de_cSharp\Exercicio_propostos_3_while\Exercicio_propostos_3_while\obj\Debug\net5.0\Exercicio_propostos_3_while.AssemblyInfo.cs
+C:\Users\JF\OneDrive - llfl\OneDrive - jfs\Curso C# - Udemy\ws-vc2022\Course\Aulas_de_cSharp\Exercicio_propostos_3_while\Exercicio_propostos_3_while\obj\Debug\net5.0\Exercicio_propostos_3_while.csproj.CoreCompileInputs.cache
+C:\Users\JF\OneDrive - llfl\OneDrive - jfs\Curso C# - Udemy\ws-vc2022\Course\Aulas_de_cSharp\Exercicio_propostos_3_while\Exercicio_propostos_3_while\obj\Debug\net5.0\Exercicio_propostos_3_while.dll
+C:\Users\JF\OneDrive - llfl\OneDrive - jfs\Curso C# - Udemy\ws-vc2022\Course\Aulas_de_cSharp\Exercicio_propostos_3_while\Exercicio_propostos_3_while\obj\Debug\net5.0\refint\Exercicio_propostos_3_while.dll
+C:\Users\JF\OneDrive - llfl\OneDrive - jfs\Curso C# - Udemy\ws-vc2022\Course\Aulas_de_cSharp\Exercicio_propostos_3_while\Exercicio_propostos_3_while\obj\Debug\net5.0\Exercicio_propostos_3_while.pdb
+C:\Users\JF\OneDrive - llfl\OneDrive - jfs\Curso C# - Udemy\ws-vc2022\Course\Aulas_de_cSharp\Exercicio_propostos_3_while\Exercicio_propostos_3_while\obj\Debug\net5.0\Exercicio_propostos_3_while.genruntimeconfig.cache
+C:\Users\JF\OneDrive - llfl\OneDrive - jfs\Curso C# - Udemy\ws-vc2022\Course\Aulas_de_cSharp\Exercicio_propostos_3_while\Exercicio_propostos_3_while\obj\Debug\net5.0\ref\Exercicio_propostos_3_while.dll

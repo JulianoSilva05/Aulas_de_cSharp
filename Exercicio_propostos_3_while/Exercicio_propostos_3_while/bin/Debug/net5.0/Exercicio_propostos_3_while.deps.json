@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Exercicio_propostos_3_while/1.0.0": {
+        "runtime": {
+          "Exercicio_propostos_3_while.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercicio_propostos_3_while/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
