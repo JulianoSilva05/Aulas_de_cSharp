@@ -11,6 +11,14 @@ namespace Aula_30_Funcoes
             int n1 = int.Parse(Console.ReadLine());
             int n2 = int.Parse(Console.ReadLine());
             int n3 = int.Parse(Console.ReadLine());
+            //Debugging - Encontrar e remover erros
+            //Atalhos:
+            //F9 - marca o inicio do Debugging
+            //F5 - inicia/continua o Debugging
+            //F10 - executa um passo a passo (pula função)
+            //F11 - Executa passo a passo - entra na função
+            //Shift+F11 - sai do método em execução
+            //Shift+F5 - Para o Debugging
 
             //Sem função//
             /*
