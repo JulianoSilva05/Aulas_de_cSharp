@@ -1,0 +1,16 @@
+C:\Users\JF\OneDrive - llfl\OneDrive - jfs\Curso C# - Udemy\ws-vc2022\Course\Aulas_de_cSharp\Exercicio_propostos_4_For\Exercicio_propostos_4_For\obj\Debug\net5.0\Exercicio_propostos_4_For.csproj.AssemblyReference.cache
+C:\Users\JF\OneDrive - llfl\OneDrive - jfs\Curso C# - Udemy\ws-vc2022\Course\Aulas_de_cSharp\Exercicio_propostos_4_For\Exercicio_propostos_4_For\obj\Debug\net5.0\Exercicio_propostos_4_For.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JF\OneDrive - llfl\OneDrive - jfs\Curso C# - Udemy\ws-vc2022\Course\Aulas_de_cSharp\Exercicio_propostos_4_For\Exercicio_propostos_4_For\obj\Debug\net5.0\Exercicio_propostos_4_For.AssemblyInfoInputs.cache
+C:\Users\JF\OneDrive - llfl\OneDrive - jfs\Curso C# - Udemy\ws-vc2022\Course\Aulas_de_cSharp\Exercicio_propostos_4_For\Exercicio_propostos_4_For\obj\Debug\net5.0\Exercicio_propostos_4_For.AssemblyInfo.cs
+C:\Users\JF\OneDrive - llfl\OneDrive - jfs\Curso C# - Udemy\ws-vc2022\Course\Aulas_de_cSharp\Exercicio_propostos_4_For\Exercicio_propostos_4_For\obj\Debug\net5.0\Exercicio_propostos_4_For.csproj.CoreCompileInputs.cache
+C:\Users\JF\OneDrive - llfl\OneDrive - jfs\Curso C# - Udemy\ws-vc2022\Course\Aulas_de_cSharp\Exercicio_propostos_4_For\Exercicio_propostos_4_For\bin\Debug\net5.0\Exercicio_propostos_4_For.exe
+C:\Users\JF\OneDrive - llfl\OneDrive - jfs\Curso C# - Udemy\ws-vc2022\Course\Aulas_de_cSharp\Exercicio_propostos_4_For\Exercicio_propostos_4_For\bin\Debug\net5.0\Exercicio_propostos_4_For.deps.json
+C:\Users\JF\OneDrive - llfl\OneDrive - jfs\Curso C# - Udemy\ws-vc2022\Course\Aulas_de_cSharp\Exercicio_propostos_4_For\Exercicio_propostos_4_For\bin\Debug\net5.0\Exercicio_propostos_4_For.runtimeconfig.json
+C:\Users\JF\OneDrive - llfl\OneDrive - jfs\Curso C# - Udemy\ws-vc2022\Course\Aulas_de_cSharp\Exercicio_propostos_4_For\Exercicio_propostos_4_For\bin\Debug\net5.0\Exercicio_propostos_4_For.runtimeconfig.dev.json
+C:\Users\JF\OneDrive - llfl\OneDrive - jfs\Curso C# - Udemy\ws-vc2022\Course\Aulas_de_cSharp\Exercicio_propostos_4_For\Exercicio_propostos_4_For\bin\Debug\net5.0\Exercicio_propostos_4_For.dll
+C:\Users\JF\OneDrive - llfl\OneDrive - jfs\Curso C# - Udemy\ws-vc2022\Course\Aulas_de_cSharp\Exercicio_propostos_4_For\Exercicio_propostos_4_For\bin\Debug\net5.0\Exercicio_propostos_4_For.pdb
+C:\Users\JF\OneDrive - llfl\OneDrive - jfs\Curso C# - Udemy\ws-vc2022\Course\Aulas_de_cSharp\Exercicio_propostos_4_For\Exercicio_propostos_4_For\obj\Debug\net5.0\Exercicio_propostos_4_For.dll
+C:\Users\JF\OneDrive - llfl\OneDrive - jfs\Curso C# - Udemy\ws-vc2022\Course\Aulas_de_cSharp\Exercicio_propostos_4_For\Exercicio_propostos_4_For\obj\Debug\net5.0\refint\Exercicio_propostos_4_For.dll
+C:\Users\JF\OneDrive - llfl\OneDrive - jfs\Curso C# - Udemy\ws-vc2022\Course\Aulas_de_cSharp\Exercicio_propostos_4_For\Exercicio_propostos_4_For\obj\Debug\net5.0\Exercicio_propostos_4_For.pdb
+C:\Users\JF\OneDrive - llfl\OneDrive - jfs\Curso C# - Udemy\ws-vc2022\Course\Aulas_de_cSharp\Exercicio_propostos_4_For\Exercicio_propostos_4_For\obj\Debug\net5.0\Exercicio_propostos_4_For.genruntimeconfig.cache
+C:\Users\JF\OneDrive - llfl\OneDrive - jfs\Curso C# - Udemy\ws-vc2022\Course\Aulas_de_cSharp\Exercicio_propostos_4_For\Exercicio_propostos_4_For\obj\Debug\net5.0\ref\Exercicio_propostos_4_For.dll
