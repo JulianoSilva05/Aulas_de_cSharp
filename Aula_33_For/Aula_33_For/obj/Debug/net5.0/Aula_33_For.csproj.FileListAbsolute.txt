@@ -1,0 +1,16 @@
+C:\Users\JF\OneDrive - llfl\OneDrive - jfs\Curso C# - Udemy\ws-vc2022\Course\Aulas_de_cSharp\Aula_33_For\Aula_33_For\bin\Debug\net5.0\Aula_33_For.exe
+C:\Users\JF\OneDrive - llfl\OneDrive - jfs\Curso C# - Udemy\ws-vc2022\Course\Aulas_de_cSharp\Aula_33_For\Aula_33_For\bin\Debug\net5.0\Aula_33_For.deps.json
+C:\Users\JF\OneDrive - llfl\OneDrive - jfs\Curso C# - Udemy\ws-vc2022\Course\Aulas_de_cSharp\Aula_33_For\Aula_33_For\bin\Debug\net5.0\Aula_33_For.runtimeconfig.json
+C:\Users\JF\OneDrive - llfl\OneDrive - jfs\Curso C# - Udemy\ws-vc2022\Course\Aulas_de_cSharp\Aula_33_For\Aula_33_For\bin\Debug\net5.0\Aula_33_For.runtimeconfig.dev.json
+C:\Users\JF\OneDrive - llfl\OneDrive - jfs\Curso C# - Udemy\ws-vc2022\Course\Aulas_de_cSharp\Aula_33_For\Aula_33_For\bin\Debug\net5.0\Aula_33_For.dll
+C:\Users\JF\OneDrive - llfl\OneDrive - jfs\Curso C# - Udemy\ws-vc2022\Course\Aulas_de_cSharp\Aula_33_For\Aula_33_For\bin\Debug\net5.0\Aula_33_For.pdb
+C:\Users\JF\OneDrive - llfl\OneDrive - jfs\Curso C# - Udemy\ws-vc2022\Course\Aulas_de_cSharp\Aula_33_For\Aula_33_For\obj\Debug\net5.0\Aula_33_For.csproj.AssemblyReference.cache
+C:\Users\JF\OneDrive - llfl\OneDrive - jfs\Curso C# - Udemy\ws-vc2022\Course\Aulas_de_cSharp\Aula_33_For\Aula_33_For\obj\Debug\net5.0\Aula_33_For.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JF\OneDrive - llfl\OneDrive - jfs\Curso C# - Udemy\ws-vc2022\Course\Aulas_de_cSharp\Aula_33_For\Aula_33_For\obj\Debug\net5.0\Aula_33_For.AssemblyInfoInputs.cache
+C:\Users\JF\OneDrive - llfl\OneDrive - jfs\Curso C# - Udemy\ws-vc2022\Course\Aulas_de_cSharp\Aula_33_For\Aula_33_For\obj\Debug\net5.0\Aula_33_For.AssemblyInfo.cs
+C:\Users\JF\OneDrive - llfl\OneDrive - jfs\Curso C# - Udemy\ws-vc2022\Course\Aulas_de_cSharp\Aula_33_For\Aula_33_For\obj\Debug\net5.0\Aula_33_For.csproj.CoreCompileInputs.cache
+C:\Users\JF\OneDrive - llfl\OneDrive - jfs\Curso C# - Udemy\ws-vc2022\Course\Aulas_de_cSharp\Aula_33_For\Aula_33_For\obj\Debug\net5.0\Aula_33_For.dll
+C:\Users\JF\OneDrive - llfl\OneDrive - jfs\Curso C# - Udemy\ws-vc2022\Course\Aulas_de_cSharp\Aula_33_For\Aula_33_For\obj\Debug\net5.0\refint\Aula_33_For.dll
+C:\Users\JF\OneDrive - llfl\OneDrive - jfs\Curso C# - Udemy\ws-vc2022\Course\Aulas_de_cSharp\Aula_33_For\Aula_33_For\obj\Debug\net5.0\Aula_33_For.pdb
+C:\Users\JF\OneDrive - llfl\OneDrive - jfs\Curso C# - Udemy\ws-vc2022\Course\Aulas_de_cSharp\Aula_33_For\Aula_33_For\obj\Debug\net5.0\Aula_33_For.genruntimeconfig.cache
+C:\Users\JF\OneDrive - llfl\OneDrive - jfs\Curso C# - Udemy\ws-vc2022\Course\Aulas_de_cSharp\Aula_33_For\Aula_33_For\obj\Debug\net5.0\ref\Aula_33_For.dll
